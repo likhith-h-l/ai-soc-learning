@@ -19,3 +19,12 @@ Managed by a third-party security provider.
 ### Hybrid SOC
 Combination of internal and external SOC teams.
 
+## What a SOC Analyst Actually Does
+
+- Monitor security alerts.
+- Triage alerts.
+- Investigate suspicious activity.
+- Escalate serious incidents.
+- Document findings.
+
+- 
