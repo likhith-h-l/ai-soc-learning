@@ -27,4 +27,7 @@ Combination of internal and external SOC teams.
 - Escalate serious incidents.
 - Document findings.
 
-- 
+- ## Example
+
+A user fails to log in 20 times within one minute. The SIEM creates an alert, and the SOC analyst investigates whether it is a brute-force attack.
+
