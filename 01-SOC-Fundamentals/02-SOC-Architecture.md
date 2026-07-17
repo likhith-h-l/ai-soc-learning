@@ -44,3 +44,29 @@ SOC Architecture is the structure of a Security Operations Center. It defines ho
 5. If malicious activity is confirmed, the incident is contained and resolved.
 
 ---
+
+## Example
+
+A firewall detects unusual traffic from an unknown IP address.
+
+↓
+
+Logs are forwarded to the SIEM.
+
+↓
+
+The SIEM generates an alert.
+
+↓
+
+A Tier 1 SOC analyst investigates.
+
+↓
+
+The attack is confirmed and escalated to Tier 2.
+
+↓
+
+The compromised endpoint is isolated using the EDR tool.
+
+---
