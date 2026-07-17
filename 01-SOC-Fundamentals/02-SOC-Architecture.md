@@ -70,3 +70,6 @@ The attack is confirmed and escalated to Tier 2.
 The compromised endpoint is isolated using the EDR tool.
 
 ---
+## In My Own Words
+
+SOC Architecture is the complete ecosystem that combines skilled analysts, security tools, and well-defined processes to protect an organization from cyber attacks.
