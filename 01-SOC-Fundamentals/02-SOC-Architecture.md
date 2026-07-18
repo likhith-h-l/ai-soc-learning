@@ -15,7 +15,7 @@ SOC Architecture is the structure of a Security Operations Center. It defines ho
 - SOC Manager
 
 ---
-### Technology
+### Technology :
 
 - SIEM
 - EDR
