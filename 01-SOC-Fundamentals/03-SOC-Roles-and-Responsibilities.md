@@ -73,3 +73,24 @@ They perform the initial investigation before escalating serious incidents.
 - Linux basics
 - SIEM knowledge
 - Basic cybersecurity concepts
+
+# 2️. Tier 2 (L2) SOC Analyst
+
+## Role
+
+Tier 2 analysts investigate incidents escalated by Tier 1 analysts.
+
+They determine whether an alert represents a real cyberattack and identify its impact.
+
+---
+
+## Responsibilities
+
+- Analyze suspicious activities
+- Investigate compromised systems
+- Perform log analysis
+- Validate Indicators of Compromise (IOCs)
+- Execute containment procedures
+- Coordinate with incident response teams
+
+---
