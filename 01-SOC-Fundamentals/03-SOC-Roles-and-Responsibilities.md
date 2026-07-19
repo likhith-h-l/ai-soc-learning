@@ -32,7 +32,7 @@ Every role works together to reduce security risks and improve the organization'
 
 ---
 
-# 1️⃣ Tier 1 (L1) SOC Analyst
+# 1️. Tier 1 (L1) SOC Analyst
 
 ## Role
 
@@ -56,3 +56,20 @@ They perform the initial investigation before escalating serious incidents.
 
 ---
 
+## Common Tools
+
+- Microsoft Sentinel
+- Splunk
+- IBM QRadar
+- Wazuh
+- Elastic Security
+
+---
+
+## Required Skills
+
+- Networking fundamentals
+- Windows Event Logs
+- Linux basics
+- SIEM knowledge
+- Basic cybersecurity concepts
