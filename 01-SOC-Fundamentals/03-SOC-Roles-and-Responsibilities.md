@@ -134,3 +134,23 @@ Tier 3 analysts are cybersecurity experts responsible for handling advanced atta
 
 ---
 
+## Common Tools
+
+- Sigma Rules
+- YARA
+- Elastic
+- Splunk Enterprise Security
+- Microsoft Sentinel
+- Zeek
+
+---
+
+## Required Skills
+
+- Advanced malware analysis
+- Threat intelligence
+- Incident response
+- Detection engineering
+- MITRE ATT&CK Framework
+
+---
