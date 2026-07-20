@@ -173,3 +173,12 @@ The SOC Manager supervises the entire Security Operations Center and ensures tha
 - Improve SOC processes
 
 ---
+## Required Skills
+
+- Leadership
+- Incident Management
+- Risk Assessment
+- Security Governance
+- Communication
+
+---
