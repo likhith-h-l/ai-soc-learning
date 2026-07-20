@@ -114,3 +114,23 @@ They determine whether an alert represents a real cyberattack and identify its i
 - Windows Forensics
 
 ---
+
+# 3️⃣ Tier 3 (L3) SOC Analyst
+
+## Role
+
+Tier 3 analysts are cybersecurity experts responsible for handling advanced attacks and improving the organization's detection capabilities.
+
+---
+
+## Responsibilities
+
+- Handle complex incidents
+- Develop detection rules
+- Perform threat hunting
+- Analyze Advanced Persistent Threats (APT)
+- Improve SIEM detection logic
+- Mentor junior analysts
+
+---
+
