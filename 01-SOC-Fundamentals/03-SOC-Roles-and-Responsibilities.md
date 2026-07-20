@@ -94,3 +94,23 @@ They determine whether an alert represents a real cyberattack and identify its i
 - Coordinate with incident response teams
 
 ---
+## Common Tools
+
+- CrowdStrike Falcon
+- Microsoft Defender
+- Wireshark
+- Sysmon
+- VirusTotal
+- ANY.RUN
+
+---
+
+## Required Skills
+
+- Incident investigation
+- Malware analysis basics
+- Threat hunting basics
+- Network traffic analysis
+- Windows Forensics
+
+---
