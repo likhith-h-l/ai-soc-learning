@@ -154,3 +154,22 @@ Tier 3 analysts are cybersecurity experts responsible for handling advanced atta
 - MITRE ATT&CK Framework
 
 ---
+
+# 4️⃣ SOC Manager
+
+## Role
+
+The SOC Manager supervises the entire Security Operations Center and ensures that security operations run efficiently.
+
+---
+
+## Responsibilities
+
+- Manage SOC team
+- Allocate resources
+- Define security policies
+- Monitor SOC performance
+- Report security incidents
+- Improve SOC processes
+
+---
