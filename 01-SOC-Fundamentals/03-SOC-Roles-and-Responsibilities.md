@@ -269,3 +269,29 @@ DFIR specialists investigate cyber incidents by collecting and analyzing digital
 - Redline
 
 ---
+# 8️⃣ Malware Analyst
+
+## Role
+
+Malware analysts examine malicious software to understand how it works.
+
+---
+
+## Responsibilities
+
+- Reverse engineer malware
+- Analyze malicious code
+- Identify Indicators of Compromise
+- Develop malware signatures
+
+---
+
+## Common Tools
+
+- Ghidra
+- IDA Pro
+- PEStudio
+- ANY.RUN
+- Cuckoo Sandbox
+
+---
