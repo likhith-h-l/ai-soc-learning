@@ -182,3 +182,32 @@ The SOC Manager supervises the entire Security Operations Center and ensures tha
 - Communication
 
 ---
+# 5️⃣ Incident Response (IR) Team
+
+## Role
+
+The Incident Response Team handles active cybersecurity incidents.
+
+Their objective is to contain, eradicate, recover, and document security incidents.
+
+---
+
+## Responsibilities
+
+- Contain attacks
+- Remove malware
+- Recover systems
+- Collect forensic evidence
+- Prepare incident reports
+
+---
+
+## Incident Response Lifecycle
+
+1. Preparation
+2. Identification
+3. Containment
+4. Eradication
+5. Recovery
+6. Lessons Learned
+
