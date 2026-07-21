@@ -115,7 +115,7 @@ They determine whether an alert represents a real cyberattack and identify its i
 
 ---
 
-# 3️⃣ Tier 3 (L3) SOC Analyst
+# 3️ Tier 3 (L3) SOC Analyst
 
 ## Role
 
@@ -155,7 +155,7 @@ Tier 3 analysts are cybersecurity experts responsible for handling advanced atta
 
 ---
 
-# 4️⃣ SOC Manager
+# 4️ SOC Manager
 
 ## Role
 
@@ -182,7 +182,7 @@ The SOC Manager supervises the entire Security Operations Center and ensures tha
 - Communication
 
 ---
-# 5️⃣ Incident Response (IR) Team
+# 5️ Incident Response (IR) Team
 
 ## Role
 
@@ -211,7 +211,7 @@ Their objective is to contain, eradicate, recover, and document security inciden
 5. Recovery
 6. Lessons Learned
 
-# 6️⃣ Threat Hunter
+# 6️ Threat Hunter
 
 ## Role
 
@@ -242,7 +242,7 @@ Unlike SOC analysts, threat hunters do not wait for alerts.
 
 ---
 
-# 7️⃣ DFIR (Digital Forensics & Incident Response)
+# 7️ DFIR (Digital Forensics & Incident Response)
 
 ## Role
 
@@ -269,7 +269,7 @@ DFIR specialists investigate cyber incidents by collecting and analyzing digital
 - Redline
 
 ---
-# 8️⃣ Malware Analyst
+# 8️ Malware Analyst
 
 ## Role
 
@@ -293,5 +293,32 @@ Malware analysts examine malicious software to understand how it works.
 - PEStudio
 - ANY.RUN
 - Cuckoo Sandbox
+
+---
+# 9️ Threat Intelligence Analyst
+
+## Role
+
+Threat Intelligence Analysts collect and analyze information about emerging cyber threats.
+
+---
+
+## Responsibilities
+
+- Monitor threat feeds
+- Research attacker groups
+- Identify new vulnerabilities
+- Produce threat intelligence reports
+- Share Indicators of Compromise
+
+---
+
+## Common Sources
+
+- MITRE ATT&CK
+- CVE Database
+- VirusTotal
+- AlienVault OTX
+- MISP
 
 ---
