@@ -211,3 +211,33 @@ Their objective is to contain, eradicate, recover, and document security inciden
 5. Recovery
 6. Lessons Learned
 
+# 6️⃣ Threat Hunter
+
+## Role
+
+Threat Hunters proactively search for hidden attackers that bypass traditional security solutions.
+
+Unlike SOC analysts, threat hunters do not wait for alerts.
+
+---
+
+## Responsibilities
+
+- Hunt hidden threats
+- Analyze attacker behavior
+- Develop hypotheses
+- Improve detection rules
+- Identify persistence mechanisms
+
+---
+
+## Common Tools
+
+- Microsoft Sentinel
+- Splunk
+- Sigma
+- YARA
+- Elastic
+- MITRE ATT&CK Navigator
+
+---
