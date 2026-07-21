@@ -241,3 +241,31 @@ Unlike SOC analysts, threat hunters do not wait for alerts.
 - MITRE ATT&CK Navigator
 
 ---
+
+# 7️⃣ DFIR (Digital Forensics & Incident Response)
+
+## Role
+
+DFIR specialists investigate cyber incidents by collecting and analyzing digital evidence.
+
+---
+
+## Responsibilities
+
+- Disk forensics
+- Memory forensics
+- Timeline analysis
+- Evidence preservation
+- Root cause analysis
+
+---
+
+## Common Tools
+
+- FTK Imager
+- Autopsy
+- Volatility
+- Magnet AXIOM
+- Redline
+
+---
