@@ -3,3 +3,24 @@ What are Network Types?
 A network type tells us how large a network is and where it is used.
 
 Some networks connect just a few devices in one room, while others connect millions of devices across the world.
+
+1. PAN (Personal Area Network)
+
+A PAN is the smallest type of network.
+
+It connects devices around one person, usually within a few meters.
+
+Examples
+Mobile ↔ Bluetooth Earbuds
+Laptop ↔ Wireless Mouse
+Smart Watch ↔ Mobile Phone
+Phone
+   │
+Bluetooth
+   │
+Earbuds
+Range
+Around 10 meters
+Used For
+Personal devices
+Bluetooth communication
