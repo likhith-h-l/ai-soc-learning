@@ -47,3 +47,23 @@ College Computer Lab
 Office Network
 Home Wi-Fi
 
+3. MAN (Metropolitan Area Network)
+
+A MAN connects multiple LANs within a city.
+
+Example:
+
+A university has 5 campuses in Bengaluru.
+
+Each campus has its own LAN.
+
+All campuses are connected together.
+
+Campus A ---- Campus B
+      \        /
+       \      /
+      Campus C
+Used By
+Universities
+Banks
+Government offices
