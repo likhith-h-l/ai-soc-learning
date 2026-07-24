@@ -88,3 +88,14 @@ Internet
 Google Network
 Microsoft Azure
 AWS
+
+
+Comparison of Network Types
+| Type | Full Form                 | Coverage          | Example             |
+| ---- | ------------------------- | ----------------- | ------------------- |
+| PAN  | Personal Area Network     | Around one person | Bluetooth           |
+| LAN  | Local Area Network        | Building          | Home Wi-Fi          |
+| MAN  | Metropolitan Area Network | City              | University campuses |
+| WAN  | Wide Area Network         | Country / World   | Internet            |
+
+
