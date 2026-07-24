@@ -139,3 +139,19 @@ Difficult to troubleshoot
 
 Used very rarely today.
 
+3. Ring Topology
+
+Devices form a circle.
+
+PC ---- PC
+|        |
+PC ---- PC
+
+Data travels around the ring.
+
+Advantage
+Organized communication
+Disadvantage
+
+If one connection breaks,
+the whole ring can be affected.
