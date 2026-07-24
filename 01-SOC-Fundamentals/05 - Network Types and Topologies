@@ -124,3 +124,18 @@ Used In
 Offices
 Schools
 Companies
+
+2. Bus Topology
+
+All devices share one main cable.
+
+PC ----- PC ----- PC ----- PC
+Advantages
+Cheap
+Easy to set up
+Disadvantages
+Main cable failure affects everyone
+Difficult to troubleshoot
+
+Used very rarely today.
+
