@@ -98,4 +98,29 @@ Comparison of Network Types
 | MAN  | Metropolitan Area Network | City              | University campuses |
 | WAN  | Wide Area Network         | Country / World   | Internet            |
 
+What is Network Topology?
 
+A network topology is the way devices are connected in a network.
+
+Think of it as the layout or design of the network.
+
+1. Star Topology 
+
+Every device connects to a central switch or router.
+
+        Switch
+      /   |   \
+    PC  Laptop Printer
+Advantages
+Easy to manage
+Easy to add new devices
+One device failure doesn't affect others
+Disadvantage
+
+If the central switch fails,
+the whole network stops working.
+
+Used In
+Offices
+Schools
+Companies
