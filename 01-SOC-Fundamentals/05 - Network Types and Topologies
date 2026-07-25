@@ -155,3 +155,26 @@ Disadvantage
 
 If one connection breaks,
 the whole ring can be affected.
+
+4. Mesh Topology
+
+Every device connects to every other device.
+
+A ------- B
+|\       /|
+| \     / |
+|  \   /  |
+|   \ /   |
+D ------- C
+Advantages
+Very reliable
+Multiple paths for communication
+Disadvantages
+Expensive
+Complex
+
+Used in:
+
+Military
+Data Centers
+Critical infrastructure
