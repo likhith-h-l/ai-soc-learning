@@ -194,3 +194,16 @@ Common in:
 Schools
 Companies
 Large organizations
+
+6. Hybrid Topology
+
+A combination of two or more topologies.
+
+Example:
+
+A company may use:
+
+Star topology in offices
+Mesh topology between data centers
+
+Most modern organizations use a hybrid topology.
