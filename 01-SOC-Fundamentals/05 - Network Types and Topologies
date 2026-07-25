@@ -178,3 +178,19 @@ Used in:
 Military
 Data Centers
 Critical infrastructure
+
+5. Tree Topology
+
+Looks like a tree structure.
+
+          Core Switch
+          /        \
+     Switch      Switch
+      /   \        |
+    PC   PC      Laptop
+
+Common in:
+
+Schools
+Companies
+Large organizations
