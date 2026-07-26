@@ -1,3 +1,15 @@
 What is the OSI Model?
 
 The OSI (Open Systems Interconnection) Model is a way to explain how data travels from one computer to another.
+
+Why Do We Need the OSI Model?
+
+Imagine there were no rules for communication.
+
+One company builds a laptop.
+Another builds a router.
+Another builds a server.
+
+Without common rules, they wouldn't understand each other.
+
+The OSI Model provides a standard way for devices to communicate.
