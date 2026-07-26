@@ -50,3 +50,19 @@ Repeater
 Example
 
 When you plug an Ethernet cable into your laptop, you're using the Physical Layer.
+
+
+2. Data Link Layer (Layer 2)
+What does it do?
+
+This layer makes sure data is delivered to the correct device within the same network.
+
+It uses MAC Addresses.
+
+Devices
+Switch
+Network Interface Card (NIC)
+Example
+
+In your college lab, when your laptop sends data to another laptop on the same Wi-Fi, the switch uses MAC addresses to forward it.
+
