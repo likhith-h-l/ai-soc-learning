@@ -78,3 +78,19 @@ Router
 Example
 
 When you open YouTube, your router checks the destination IP address and forwards the packet to the internet.
+
+4. Transport Layer (Layer 4)
+What does it do?
+
+This layer ensures that data reaches the destination correctly and completely.
+
+It also manages ports.
+
+Protocols
+TCP
+UDP
+Example
+
+When downloading a file, TCP ensures all parts arrive correctly.
+
+During a live video call, UDP is often used because speed is more important than retransmitting lost packets.
