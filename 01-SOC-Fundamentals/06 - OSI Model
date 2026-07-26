@@ -66,3 +66,15 @@ Example
 
 In your college lab, when your laptop sends data to another laptop on the same Wi-Fi, the switch uses MAC addresses to forward it.
 
+3. Network Layer (Layer 3)
+What does it do?
+
+This layer decides where the data should go.
+
+It uses IP Addresses.
+
+Devices
+Router
+Example
+
+When you open YouTube, your router checks the destination IP address and forwards the packet to the internet.
