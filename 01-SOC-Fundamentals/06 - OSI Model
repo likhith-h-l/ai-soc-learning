@@ -33,3 +33,20 @@ The 7 Layers of the OSI Model
 +---------------------+
 
 
+1. Physical Layer (Layer 1)
+What does it do?
+
+This layer is responsible for sending raw bits (0s and 1s) through cables or wireless signals.
+
+It doesn't understand websites, emails, or files.
+
+It only sends electrical, light, or radio signals.
+
+Devices
+Ethernet Cable
+Fiber Cable
+Hub
+Repeater
+Example
+
+When you plug an Ethernet cable into your laptop, you're using the Physical Layer.
