@@ -103,3 +103,17 @@ This layer starts, manages, and ends communication sessions between devices.
 Example
 
 When you log in to a website, the session stays active while you're using it. When you log out, the session ends.
+
+6. Presentation Layer (Layer 6)
+What does it do?
+
+This layer changes data into a format that both devices can understand.
+
+It also handles:
+
+Encryption
+Decryption
+Compression
+Example
+
+When you visit an HTTPS website, data is encrypted before being sent.
