@@ -94,3 +94,12 @@ Example
 When downloading a file, TCP ensures all parts arrive correctly.
 
 During a live video call, UDP is often used because speed is more important than retransmitting lost packets.
+
+5. Session Layer (Layer 5)
+What does it do?
+
+This layer starts, manages, and ends communication sessions between devices.
+
+Example
+
+When you log in to a website, the session stays active while you're using it. When you log out, the session ends.
