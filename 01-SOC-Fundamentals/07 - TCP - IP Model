@@ -84,3 +84,22 @@ DNS
 Example:
 
 Opening YouTube starts at the Application Layer.
+
+2. Transport Layer
+
+This layer is responsible for delivering data between applications.
+
+It uses:
+
+TCP
+UDP
+
+Responsibilities:
+
+Reliable communication
+Error checking
+Port numbers
+
+Example:
+
+When downloading a movie, TCP ensures all parts arrive correctly.
