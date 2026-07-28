@@ -137,3 +137,26 @@ MAC Address
 Example:
 
 Your laptop sends data through Wi-Fi to your router.
+
+How Data Travels
+
+Suppose you open www.youtube.com.
+Chrome Browser
+        │
+        ▼
+Application Layer
+        │
+        ▼
+Transport Layer (TCP)
+        │
+        ▼
+Internet Layer (IP)
+        │
+        ▼
+Network Access Layer (Wi-Fi)
+        │
+        ▼
+Internet
+        │
+        ▼
+YouTube Server
