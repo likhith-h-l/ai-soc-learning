@@ -47,3 +47,40 @@ Sending a letter.
 The address on the envelope tells the post office where to deliver it.
 
 IP works the same way.
+
+TCP/IP Layers
+
+Unlike the OSI Model (7 layers), TCP/IP has only 4 layers.
++----------------------+
+|  Application Layer   |
++----------------------+
+|   Transport Layer    |
++----------------------+
+|    Internet Layer    |
++----------------------+
+| Network Access Layer |
++----------------------+
+
+1. Application Layer
+
+This is where users interact with the network.
+
+Examples:
+
+Chrome
+Firefox
+Gmail
+Outlook
+WhatsApp
+
+Common Protocols:
+
+HTTP
+HTTPS
+FTP
+SMTP
+DNS
+
+Example:
+
+Opening YouTube starts at the Application Layer.
