@@ -160,3 +160,14 @@ Internet
         │
         ▼
 YouTube Server
+
+
+The server sends the response back using the same layers in reverse.
+
+OSI vs TCP/IP
+| OSI Model                                | TCP/IP Model         |
+| ---------------------------------------- | -------------------- |
+| 7 Layers                                 | 4 Layers             |
+| Learning model                           | Practical model      |
+| Mostly used for understanding networking | Used on the Internet |
+| More detailed                            | Simpler              |
