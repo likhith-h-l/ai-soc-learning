@@ -121,3 +121,19 @@ ICMP
 Example:
 
 When you open google.com, the packet travels to Google's IP address through routers.
+
+4. Network Access Layer
+
+This is the lowest layer.
+
+It handles communication between your device and the local network.
+
+It includes:
+
+Ethernet
+Wi-Fi
+MAC Address
+
+Example:
+
+Your laptop sends data through Wi-Fi to your router.
