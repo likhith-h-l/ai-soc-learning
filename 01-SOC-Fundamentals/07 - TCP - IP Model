@@ -2,3 +2,17 @@ What is the TCP/IP Model?
 The TCP/IP Model is a set of rules that allows computers to communicate over a network.
 Think of it as the language of the Internet.
 If two computers follow these rules, they can exchange data without any problem.
+
+Why Do We Need TCP/IP?
+
+Imagine everyone spoke a different language.
+
+One person speaks English.
+Another speaks Kannada.
+Another speaks Japanese.
+
+Communication would be difficult.
+
+Similarly, computers also need common rules.
+
+TCP/IP provides those rules so every device connected to the Internet can communicate.
