@@ -103,3 +103,21 @@ Port numbers
 Example:
 
 When downloading a movie, TCP ensures all parts arrive correctly.
+
+3. Internet Layer
+
+This layer is responsible for routing packets to the correct destination.
+
+It uses:
+
+IP Address
+
+Main Protocols:
+
+IPv4
+IPv6
+ICMP
+
+Example:
+
+When you open google.com, the packet travels to Google's IP address through routers.
