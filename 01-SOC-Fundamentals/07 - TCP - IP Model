@@ -16,3 +16,18 @@ Communication would be difficult.
 Similarly, computers also need common rules.
 
 TCP/IP provides those rules so every device connected to the Internet can communicate.
+
+Why is it Called TCP/IP?
+
+The name comes from two important protocols:
+
+TCP (Transmission Control Protocol)
+Makes sure data reaches the destination correctly.
+If some data is lost, it sends it again.
+Reliable communication.
+
+Example:
+
+Downloading a PDF file.
+
+You want every page to arrive correctly.
