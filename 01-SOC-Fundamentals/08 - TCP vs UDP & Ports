@@ -30,3 +30,30 @@ If one video frame is lost, you probably won't notice.
 It is better to continue the live stream instead of stopping and resending the missing frame.
 
 That's why streaming services often use UDP.
+
+What is a Port?
+
+A Port is a logical communication endpoint on a computer.
+
+Think of your computer like a large office building.
+
+IP Address = Building address
+Port Number = Room number
+
+The IP Address tells the data which computer to reach.
+
+The Port Number tells the data which application should receive it.
+
+Example
+
+Your computer's IP:
+
+192.168.1.10
+
+Different applications use different ports:
+
+192.168.1.10:80   → Web Server
+192.168.1.10:22   → SSH
+192.168.1.10:443  → HTTPS
+
+Same computer, different services.
