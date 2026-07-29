@@ -11,3 +11,22 @@ Imagine you're sending a 100-page PDF to your friend.
 If page 50 goes missing, TCP will send only page 50 again instead of the entire file.
 
 This makes TCP reliable.
+
+
+What is UDP?
+
+UDP (User Datagram Protocol) is a communication protocol that sends data without checking whether it reached the destination.
+
+It focuses on speed, not reliability.
+
+If some data is lost, UDP does not resend it.
+
+Example
+
+Imagine you're watching a live cricket match.
+
+If one video frame is lost, you probably won't notice.
+
+It is better to continue the live stream instead of stopping and resending the missing frame.
+
+That's why streaming services often use UDP.
