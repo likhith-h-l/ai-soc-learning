@@ -171,3 +171,17 @@ OSI vs TCP/IP
 | Learning model                           | Practical model      |
 | Mostly used for understanding networking | Used on the Internet |
 | More detailed                            | Simpler              |
+
+OSI to TCP/IP Mapping
+OSI Model                  TCP/IP Model
+
+Application   ┐
+Presentation  ├────► Application
+Session       ┘
+
+Transport  ─────────► Transport
+
+Network    ─────────► Internet
+
+Data Link  ┐
+Physical   ┘───────► Network Access
