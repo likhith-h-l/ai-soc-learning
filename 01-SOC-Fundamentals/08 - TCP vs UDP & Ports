@@ -1,0 +1,13 @@
+What is TCP?
+
+TCP (Transmission Control Protocol) is a communication protocol that makes sure data reaches the destination correctly and in the right order.
+
+If some data is lost during transmission, TCP sends it again.
+
+Example
+
+Imagine you're sending a 100-page PDF to your friend.
+
+If page 50 goes missing, TCP will send only page 50 again instead of the entire file.
+
+This makes TCP reliable.
