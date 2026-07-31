@@ -44,16 +44,4 @@ The IP Address tells the data which computer to reach.
 
 The Port Number tells the data which application should receive it.
 
-Example
 
-Your computer's IP:
-
-192.168.1.10
-
-Different applications use different ports:
-
-192.168.1.10:80   → Web Server
-192.168.1.10:22   → SSH
-192.168.1.10:443  → HTTPS
-
-Same computer, different services.
