@@ -9,3 +9,21 @@ HTTP is a protocol used to transfer web pages between a web browser and a web se
 ## Purpose
 
 Used to access websites on the Internet.
+
+## Example
+
+When you open:
+
+http://example.com
+
+your browser sends an HTTP request to the web server, and the server sends the webpage back.
+
+## Security
+
+Data is not encrypted.
+
+## SOC Perspective
+
+If a login page uses HTTP instead of HTTPS, an attacker can capture usernames and passwords using packet sniffing.
+
+---
