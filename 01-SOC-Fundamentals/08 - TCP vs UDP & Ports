@@ -57,3 +57,12 @@ Different applications use different ports:
 192.168.1.10:443  → HTTPS
 
 Same computer, different services.
+
+Port Number Ranges
+
+| Range         | Purpose                   |
+| ------------- | ------------------------- |
+| 0 – 1023      | Well-Known Ports          |
+| 1024 – 49151  | Registered Ports          |
+| 49152 – 65535 | Dynamic / Ephemeral Ports |
+
