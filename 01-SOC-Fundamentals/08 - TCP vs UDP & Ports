@@ -66,3 +66,23 @@ Port Number Ranges
 | 1024 – 49151  | Registered Ports          |
 | 49152 – 65535 | Dynamic / Ephemeral Ports |
 
+Common Port Numbers
+
+| Port  | Protocol | Used For                  |
+| ----- | -------- | ------------------------- |
+| 20    | FTP      | Data Transfer             |
+| 21    | FTP      | File Transfer Control     |
+| 22    | SSH      | Secure Remote Login       |
+| 23    | Telnet   | Remote Login (Not Secure) |
+| 25    | SMTP     | Sending Emails            |
+| 53    | DNS      | Domain Name Resolution    |
+| 67/68 | DHCP     | Assigning IP Addresses    |
+| 80    | HTTP     | Websites (Not Secure)     |
+| 110   | POP3     | Receiving Emails          |
+| 143   | IMAP     | Email Access              |
+| 123   | NTP      | Time Synchronization      |
+| 161   | SNMP     | Network Device Monitoring |
+| 389   | LDAP     | Directory Services        |
+| 443   | HTTPS    | Secure Websites           |
+| 445   | SMB      | Windows File Sharing      |
+| 3389  | RDP      | Remote Desktop            |
