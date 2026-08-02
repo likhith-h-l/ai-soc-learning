@@ -27,3 +27,10 @@ Data is not encrypted.
 If a login page uses HTTP instead of HTTPS, an attacker can capture usernames and passwords using packet sniffing.
 
 ---
+
+# DNS (Domain Name System)
+
+## Definition
+
+DNS is a protocol that converts a domain name into an IP address.
+
