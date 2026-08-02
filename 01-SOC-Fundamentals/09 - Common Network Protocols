@@ -34,3 +34,10 @@ If a login page uses HTTP instead of HTTPS, an attacker can capture usernames an
 
 DNS is a protocol that converts a domain name into an IP address.
 
+## Port
+
+53
+
+## Purpose
+
+Helps computers find the IP address of websites.
