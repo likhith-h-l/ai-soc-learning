@@ -77,3 +77,11 @@ SOC Analysts monitor DNS logs to detect suspicious domains, malware communicatio
 ## Definition
 
 SSH is a protocol used to securely access and manage a remote computer over a network.
+
+## Port
+
+22
+
+## Purpose
+
+Allows administrators to remotely manage Linux and Unix servers.
