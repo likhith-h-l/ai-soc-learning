@@ -57,3 +57,23 @@ DNS converts it into an IP address like:
 ```
 
 Your browser then connects to that IP address.
+
+## Security
+
+Attackers may abuse DNS for:
+
+- DNS Spoofing
+- DNS Tunneling
+- Data Exfiltration
+
+## SOC Perspective
+
+SOC Analysts monitor DNS logs to detect suspicious domains, malware communication, and phishing websites.
+
+---
+
+# SSH (Secure Shell)
+
+## Definition
+
+SSH is a protocol used to securely access and manage a remote computer over a network.
