@@ -41,3 +41,19 @@ DNS is a protocol that converts a domain name into an IP address.
 ## Purpose
 
 Helps computers find the IP address of websites.
+
+## Example
+
+You type:
+
+```
+google.com
+```
+
+DNS converts it into an IP address like:
+
+```
+142.250.183.14
+```
+
+Your browser then connects to that IP address.
