@@ -85,3 +85,7 @@ SSH is a protocol used to securely access and manage a remote computer over a ne
 ## Purpose
 
 Allows administrators to remotely manage Linux and Unix servers.
+
+## Example
+
+A system administrator connects from their laptop to a cloud server using SSH to install software or check logs.
