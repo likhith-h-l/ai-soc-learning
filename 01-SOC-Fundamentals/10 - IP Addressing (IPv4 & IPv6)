@@ -16,3 +16,20 @@ The post office wouldn't know where to deliver it.
 Similarly, without an IP address, data wouldn't know which device it should reach.
 
 ---
+## Example
+
+Your laptop:
+
+```
+192.168.1.10
+```
+
+Your mobile:
+
+```
+192.168.1.20
+```
+
+Both devices have different IP addresses, allowing the router to send data to the correct device.
+
+---
