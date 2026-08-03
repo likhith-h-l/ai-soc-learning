@@ -6,3 +6,13 @@
 An **IP (Internet Protocol) Address** is a unique number assigned to every device connected to a network.
 
 It helps identify the device and allows data to reach the correct destination.
+
+## Why Do We Need an IP Address?
+
+Imagine sending a letter without writing the house address.
+
+The post office wouldn't know where to deliver it.
+
+Similarly, without an IP address, data wouldn't know which device it should reach.
+
+---
