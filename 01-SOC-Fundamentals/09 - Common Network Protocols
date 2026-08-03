@@ -89,3 +89,12 @@ Allows administrators to remotely manage Linux and Unix servers.
 ## Example
 
 A system administrator connects from their laptop to a cloud server using SSH to install software or check logs.
+
+
+## Security
+
+ Encrypted communication.
+
+## SOC Perspective
+
+Multiple failed SSH login attempts may indicate a brute-force attack.
