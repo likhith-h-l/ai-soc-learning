@@ -52,3 +52,24 @@ IPv4 is the most commonly used version of the Internet Protocol.
 It uses **32 bits** and is written as **four numbers separated by dots**.
 
 ---
+## Format
+
+```
+192.168.1.10
+```
+
+Each number is called an **Octet**.
+
+```
+192 . 168 . 1 . 10
+ ↑      ↑     ↑    ↑
+Octet Octet Octet Octet
+```
+
+Each octet ranges from:
+
+```
+0 - 255
+```
+
+---
