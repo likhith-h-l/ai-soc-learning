@@ -122,3 +122,18 @@ IPv6 uses:
 A **Public IP Address** is an IP address that is accessible over the Internet.
 
 It is assigned by your Internet Service Provider (ISP).
+
+
+## Example
+
+```
+49.205.178.45
+```
+
+---
+
+## Uses
+
+- Websites
+- Cloud Servers
+- Internet Communication
