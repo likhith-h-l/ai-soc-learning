@@ -137,3 +137,12 @@ It is assigned by your Internet Service Provider (ISP).
 - Websites
 - Cloud Servers
 - Internet Communication
+# Private IP Address
+
+## Definition
+
+A **Private IP Address** is used inside a local network.
+
+It cannot be accessed directly from the Internet.
+
+---
