@@ -105,3 +105,13 @@ IPv6 uses:
 - 128 bits
 - Hexadecimal numbers
 - Colons (:) instead of dots
+
+---
+
+## Example
+
+```
+2409:4081:abcd:1200::25
+```
+
+--
